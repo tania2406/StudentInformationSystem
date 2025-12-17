@@ -35,20 +35,33 @@ For detailed setup, see `docs/installation_guide.md`.
 
 Project layout:
 ├── README.md
+
 ├── src
 
 │ ├── Student.java # Student entity class
+
 │ ├── StudentManager.java # Business logic and data handling
+
 │ ├── ValidationUtils.java # Validation helper methods
+
 │ └── StudentInformationSystem.java# Main program and menu/UI
+
 ├── docs
+
 │ ├── installation_guide.md # Detailed installation steps
+
 │ ├── user_manual.md # How to use the application
+
 │ ├── code_explanation.md # Detailed code/architecture explanation
-│ ├── screenshot_menu.png # (add actual screenshot)
-│ ├── screenshot_add.png # (add actual screenshot)
-│ └── screenshot_view.png # (add actual screenshot)
+
+│ ├── screenshot_menu.jpg # (add actual screenshot)
+
+│ ├── screenshot_add.jpg # (add actual screenshot)
+
+│ └── screenshot_view.jpg # (add actual screenshot)
+
 └── test_data
+
 └── sample_students.txt # Sample input data for testing
 
 
