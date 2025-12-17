@@ -129,9 +129,6 @@ screenshots to the `docs/` :
 
 ---
 
-## License
-
-Add your chosen license here (e.g., MIT, Apache-2.0).
 
 
    
