@@ -17,14 +17,19 @@ Its objectives are to provide simple CRUD operations from the terminal, demonstr
 ### Steps (Command Line)
 
 1. Clone the repository:
+   
     git clone https://github.com/tania2406/StudentInformationSystem.git
+   
     cd StudentInformationSystem
 
-2. Compile the source code:
+3. Compile the source code:
+   
    cd src
+   
    javac Student.java StudentManager.java ValidationUtils.java StudentInformationSystem.java
 
-3. Run the application:
+5. Run the application:
+   
    java StudentInformationSystem
    
 For detailed setup, see `docs/installation_guide.md`.
@@ -34,6 +39,7 @@ For detailed setup, see `docs/installation_guide.md`.
 ## Code Structure
 
 Project layout:
+
 ├── README.md
 
 ├── src
