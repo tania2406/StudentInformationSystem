@@ -36,6 +36,7 @@ For detailed setup, see `docs/installation_guide.md`.
 Project layout:
 ├── README.md
 ├── src
+
 │ ├── Student.java # Student entity class
 │ ├── StudentManager.java # Business logic and data handling
 │ ├── ValidationUtils.java # Validation helper methods
