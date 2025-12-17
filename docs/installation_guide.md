@@ -6,6 +6,7 @@
 - Terminal/Command Prompt or any Java IDE (IntelliJ IDEA, Eclipse, VS Code)
 
 Check your Java version:
+
   java -version
 
 You should see a valid Java version printed.
@@ -17,6 +18,7 @@ You should see a valid Java version printed.
 ### Option A: Clone from GitHub
 
 git clone https://github.com/tania2406/StudentInformationSystem.git
+
 cd StudentInformationSystem
 
 ### Option B: Download ZIP
@@ -30,12 +32,15 @@ cd StudentInformationSystem
 ## 3. Complie and Run(Command Line)
 
 1. Navigate to the `src` directory:
+   
    cd src
 
-2. Compile the Java files:
+3. Compile the Java files:
+   
    javac Student.java StudentManager.java ValidationUtils.java StudentInformationSystem.java
    
-3. Run the application:
+5. Run the application:
+   
    java StudentInformationSystem
    
 ---
