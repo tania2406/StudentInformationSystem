@@ -16,8 +16,8 @@ You should see a valid Java version printed.
 
 ### Option A: Clone from GitHub
 
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/tania2406/StudentInformationSystem.git
+cd StudentInformationSystem
 
 ### Option B: Download ZIP
 
